@@ -1,4 +1,4 @@
-<h3 align="center">👋  Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  I’m Athan</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I’m Athan</h3>
 <h4 align="left">I’m interested in part time job, you can reach me by email athan.ipd6200@gmail.com</h4>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=athanipd6200&show_icons=true&hide_border=true&count_private=true)
